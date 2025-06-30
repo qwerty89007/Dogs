@@ -61,7 +61,7 @@ p{
 	border-radius:25px;
 	width:600px;
 	padding:10px;
-	font-size:25px;
+	font-size:22px;
 }
 .recommendations article {
 	background-color:#D1C1C1;
@@ -76,7 +76,7 @@ p{
 .recommendations {
 	display:flex;
 	justify-content:space-evenly;
-	font-size:35px;
+	font-size:17px;
 }
 .solution img{
 	width:80px;
@@ -87,7 +87,7 @@ p{
 	width:400px;
 	padding:10px;
 	text-align:left;
-	font-size:30px;
+	font-size:17px;
 }
 .plus_minus div{
 	
@@ -159,7 +159,7 @@ footer div{
 	left:30%;
 	width:65%;
 	font-weight:500;
-	font-size:32px;
+	font-size:20px;
 	background-color:#F5F5F5;
 	padding:10px;
 	border-radius:30px;
